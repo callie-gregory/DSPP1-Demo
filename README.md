@@ -1,1 +1,7 @@
 # DSPP1-Demo
+
+title: My portfolio
+logo: /images/avatar.jpg
+#description: Avatar to be replaced
+show_downloads: true
+theme: jekyll-theme-minimal
